@@ -1,12 +1,12 @@
 all:
 	mkdir -p bin
-	gcc lib/ransock.c -o bin/ransock
+	gcc lib/raport.c -o bin/raport
 
 clean:
-	rm -rf bin/ransock
+	rm -rf bin/raport
 
 test:
 	rspec spec
 
 run:
-	bin/ransock
+	bin/raport
