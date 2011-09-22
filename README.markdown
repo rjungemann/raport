@@ -19,4 +19,4 @@ Or you can check out this repo and run the following to see if it works:
 Usage
 -----
 
-    ./ransock
+    ./raport
