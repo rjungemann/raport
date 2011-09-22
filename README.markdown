@@ -1,7 +1,7 @@
 raport
 ======
 
-Get a random port from the command line.
+Get a random unused port from the command line.
 
 Installation
 ------------
